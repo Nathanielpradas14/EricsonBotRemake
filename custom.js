@@ -26,7 +26,7 @@ function init(api) {
     
     /* using fs 
     const message  = {
-        body: `WELCOME TO YETANOTHERFBBOT`,
+        body: `WELCOME TO ERICSONANOTHERFBBOT`,
         attachment: fs.createReadStream('cache/logo1.png')
       };
       */

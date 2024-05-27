@@ -1,4 +1,4 @@
-# OCTOBOT REMAKE
+# ERICSONBOT REMAKE
 
 A simple Faceb••k bot project for us all nigga 😌 this project is a remake from the original src of yafbv3.2 
 
@@ -32,7 +32,7 @@ lagay mo ang appstate sa cookie.json bago mo iuupload sa  website mo
 ## for Security 
 i added WEBVIEW on Config json pRa yun only sa WebView lang maacess yung api
 ## PM MOKO SAKALING MAY TANONG KA
-	 https://fb.com/yetanotherfbbot
+	 https://www.facebook.com/ericsonpascua6
 
 ## Join us.
 [Join the chat](https://m.me/j/AbY7Ldz4LsCvTQcK/)
